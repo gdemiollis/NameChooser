@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="hello">Hello World, NameChooserActivity!</string>
+    <string name="app_name">Prénoms du Québec</string>
+    <string name="prenom">Prénom</string>
+    <string name="rang">1</string>
+    <string name="frequence">368</string>
+    <string name="fois">&#160;fois</string>
+    <string name="point">.</string>
+    <string name="gars">Gars</string>
+    <string name="fille">Fille</string>
+    <string name="tous">Tous</string>
+    <string name="admob_id">a14f2cd5d16c741</string>
+    <string name="erreurAjoutFavoris">Impossible d\'ajouter %s aux favoris</string>
+    <string name="erreurSupprFavoris">Impossible de supprimer %s des favoris</string>
+    <string name="ajoutFavoris">%s a été ajouté aux favoris</string>
+    <string name="supprFavoris">%s a été supprimé des favoris</string>
+
+</resources>

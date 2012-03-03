@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colGars">#A3E4FF</color>
+    <color name="colFille">#FCD3FF</color>
+    <color name="colTous">#FDFDF0</color>
+    <color name="colFavoris">#FDFDF0</color>
+    <color name="black">#000000</color>
+</resources>

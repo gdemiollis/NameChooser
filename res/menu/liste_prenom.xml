@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android" >
+
+    <item
+        android:id="@+id/filtreGars"
+        android:title="@string/gars"/>
+    <item
+        android:id="@+id/filtreFille"
+        android:title="@string/fille"/>
+    <item
+        android:id="@+id/filtreTous"
+        android:showAsAction="ifRoom|withText"
+        android:title="@string/tous"/>
+    <item
+        android:id="@+id/filtreFavoris"
+        android:showAsAction="ifRoom|withText"
+        android:title="Favoris"/>
+
+</menu>
